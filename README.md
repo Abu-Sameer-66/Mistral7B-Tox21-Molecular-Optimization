@@ -4,7 +4,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0C419&center=true&vCenter=true&width=1000&lines=Fine-tuning+Mistral-7B+on+Tox21+Dataset;Achieving+0.72+Mean+ROC-AUC;Solving+Gradient+Instability+with+fp32+Upcasting;8x+Oversampling+for+Imbalanced+Tox+Labels."
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=DEE2D9&center=true&vCenter=true&width=1000&lines=Fine-tuning+Mistral-7B+on+Tox21+Dataset;Achieving+0.72+Mean+ROC-AUC;Solving+Gradient+Instability+with+fp32+Upcasting;8x+Oversampling+for+Imbalanced+Tox+Labels."
     alt="Typing SVG"
   />
 </div>
@@ -47,7 +47,6 @@ This repository contains the professional implementation of a **Mistral-7B** bas
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/LoRA-PEFT-green?style=for-the-badge"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,docker,linux,vscode&theme=dark" height="40" />
 </div>
 
 ---
