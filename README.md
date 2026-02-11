@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=896A15,6E8915,98351F&height=200&section=header&text=Mistral7B%20%7C%20Tox21%20Optimization&fontSize=50&fontColor=DEE2D9&animation=fadeIn&fontAlignY=35&desc=Scientific%20Fine-tuning%20%7C%20DeepChem%20GSoC%20'26%20Prototype&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&ColorList=896A15,6E8915,98351F&height=200&section=header&text=Tox21%20Optimization%20%7C%20Mistral7B&fontSize=50&fontColor=DEE2D9&animation=fadeIn&fontAlignY=35&desc=Scientific%20Fine-tuning%20%7C%20DeepChem%20GSoC%20'26%20Prototype&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
