@@ -17,7 +17,6 @@
 
 
 
-
 ### 🧬 Project Overview
 This repository contains the professional implementation of a **Mistral-7B** based molecular property predictor, optimized specifically for the **Tox21** dataset. Developed as a pre-proposal prototype for **Google Summer of Code 2026** with **DeepChem**, this project demonstrates how general-purpose LLMs can be adapted for high-accuracy chemical toxicity screening on consumer hardware.
 
